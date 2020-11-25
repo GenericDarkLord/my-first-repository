@@ -1,0 +1,14 @@
+div{
+    border: 1px solid black;
+    width: 300px;
+}
+.first{
+    border-top: none;
+}
+.last{
+    border-bottom: none;
+}
+
+div:hover{
+    background: orangered;
+}
